@@ -5,5 +5,5 @@ O objetivo desenvolver um sistema interativo e intuitivo para controle de estoqu
 
 <ol>
 <li><a href="Docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="Docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 
