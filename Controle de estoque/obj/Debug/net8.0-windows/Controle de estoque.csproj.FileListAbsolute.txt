@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\bin\Debug\net8.0-windows\Controle de estoque.exe
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\bin\Debug\net8.0-windows\Controle de estoque.deps.json
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\bin\Debug\net8.0-windows\Controle de estoque.runtimeconfig.json
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\bin\Debug\net8.0-windows\Controle de estoque.dll
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\bin\Debug\net8.0-windows\Controle de estoque.pdb
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle_de_estoque.Form1.resources
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.AssemblyInfo.cs
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.dll
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\refint\Controle de estoque.dll
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.pdb
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle de estoque.genruntimeconfig.cache
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\ref\Controle de estoque.dll
+C:\Users\User\source\repos\Controle de estoque\Controle de estoque\obj\Debug\net8.0-windows\Controle_de_estoque.Properties.Resources.resources
